@@ -13,6 +13,7 @@ public:
 
     void eat() {
         std::cout << "Animal is eating\n";
+        std::cout << "This line in code just to test git blame in git\n";
     }
 };
 
